@@ -1,0 +1,21 @@
+,Ano,Valor_ano_anterior,Valor_preço_anterior,Valor_corrente,Categoria,Local,Taxa de Crescimento
+57,2002,0.0,0.0,5029.5466725028,"Eletricidade e gás, água, esgoto, atividades de gestão de resíduos e descontaminação",Rio de Janeiro,
+58,2003,5029.5466725028,4864.452154100801,5399.749021441799,"Eletricidade e gás, água, esgoto, atividades de gestão de resíduos e descontaminação",Rio de Janeiro,-0.03282493018796162
+59,2004,5399.749021441799,5809.421667297,5983.023060873201,"Eletricidade e gás, água, esgoto, atividades de gestão de resíduos e descontaminação",Rio de Janeiro,0.07586883098240982
+60,2005,5983.023060873201,6062.869054954801,7168.4350469277,"Eletricidade e gás, água, esgoto, atividades de gestão de resíduos e descontaminação",Rio de Janeiro,0.01334542642895098
+61,2006,7168.4350469277,7604.557106413501,7755.5032466728,"Eletricidade e gás, água, esgoto, atividades de gestão de resíduos e descontaminação",Rio de Janeiro,0.060839228734131945
+62,2007,7755.5032466728,7843.827955848599,7673.291629103501,"Eletricidade e gás, água, esgoto, atividades de gestão de resíduos e descontaminação",Rio de Janeiro,0.011388649629370251
+63,2008,7673.291629103501,9038.082489637001,6253.034243996599,"Eletricidade e gás, água, esgoto, atividades de gestão de resíduos e descontaminação",Rio de Janeiro,0.17786250366883993
+64,2009,6253.034243996599,5971.571388036401,9548.43878062,"Eletricidade e gás, água, esgoto, atividades de gestão de resíduos e descontaminação",Rio de Janeiro,-0.045012204471840844
+65,2010,9548.43878062,10847.3669633388,11310.814524635429,"Eletricidade e gás, água, esgoto, atividades de gestão de resíduos e descontaminação",Rio de Janeiro,0.1360356611758533
+66,2011,11310.814524635429,11407.24741328182,11489.784856708931,"Eletricidade e gás, água, esgoto, atividades de gestão de resíduos e descontaminação",Rio de Janeiro,0.008525724512267185
+67,2012,11489.784856708931,12306.789550418478,12209.379819728681,"Eletricidade e gás, água, esgoto, atividades de gestão de resíduos e descontaminação",Rio de Janeiro,0.07110704890461839
+68,2013,12209.379819728681,12617.68282187907,11695.68153029762,"Eletricidade e gás, água, esgoto, atividades de gestão de resíduos e descontaminação",Rio de Janeiro,0.03344174791668175
+69,2014,11695.68153029762,11783.67224391726,11268.753340290501,"Eletricidade e gás, água, esgoto, atividades de gestão de resíduos e descontaminação",Rio de Janeiro,0.0075233506821899
+70,2015,11268.753340290501,11597.17431959599,12720.943894219246,"Eletricidade e gás, água, esgoto, atividades de gestão de resíduos e descontaminação",Rio de Janeiro,0.029144393296039794
+71,2016,12720.943894219246,13062.855892508533,15593.67662415651,"Eletricidade e gás, água, esgoto, atividades de gestão de resíduos e descontaminação",Rio de Janeiro,0.026877879592304588
+72,2017,15593.67662415651,16073.459230481152,14973.481024921792,"Eletricidade e gás, água, esgoto, atividades de gestão de resíduos e descontaminação",Rio de Janeiro,0.03076776682552218
+73,2018,14973.481024921792,14913.741940059768,15861.952906249611,"Eletricidade e gás, água, esgoto, atividades de gestão de resíduos e descontaminação",Rio de Janeiro,-0.003989659102154985
+74,2019,15861.952906249611,15684.559400281643,19062.33108308076,"Eletricidade e gás, água, esgoto, atividades de gestão de resíduos e descontaminação",Rio de Janeiro,-0.011183585464944579
+75,2020,19062.33108308076,18486.979945910192,19190.55735260532,"Eletricidade e gás, água, esgoto, atividades de gestão de resíduos e descontaminação",Rio de Janeiro,-0.030182622191534336
+76,2021,19190.55735260532,19996.52357630874,19099.116227162904,"Eletricidade e gás, água, esgoto, atividades de gestão de resíduos e descontaminação",Rio de Janeiro,0.04199806232277048
